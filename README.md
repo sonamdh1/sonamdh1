@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sonam Dhawan
+
+Hello! I'm a Full Stack Developer.
 
 <!--
 **sonamdh1/sonamdh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
