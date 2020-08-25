@@ -1,6 +1,6 @@
 ### Sonam Dhawan
 
-Hello! I'm a Full Stack Developer.
+Hello! I'm Sonam, a full stack developer with 3.5+ years experience.
 
 <!--
 **sonamdh1/sonamdh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
