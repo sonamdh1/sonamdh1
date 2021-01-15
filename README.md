@@ -3,9 +3,11 @@
 Hello! I'm Sonam, a full stack developer with 4 years experience.
 
 Front-End
+
 JavaScript • ReactJS • Redux • EmberJS •  HTML5 • CSS3 • SASS
 
 Back-End
+
 NodeJS • Python • PHP • Express • AWS • MySQL • PostgreSQL • MongoDB • Elastic Search • Redis
 
 <!--
