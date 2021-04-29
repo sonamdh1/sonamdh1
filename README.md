@@ -1,12 +1,12 @@
 ### Sonam Dhawan
 
-Hello! I'm Sonam, a __full stack developer__ with 4 years experience.
+Hello! I'm Sonam, a __full stack developer__ with 4+ years experience.
 
 ---
 
 __Front-End__
 
-JavaScript • ReactJS • Redux • EmberJS •  HTML5 • CSS3 • SASS
+JavaScript • ReactJS • Redux • EmberJS • AngularJS • HTML5 • CSS3 • SASS
 
 __Back-End__
 
