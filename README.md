@@ -1,16 +1,28 @@
-### Sonam Dhawan
+### Hello there!
 
-Hello! I'm Sonam, a __full stack developer__ with 4+ years experience.
+My name is Sonam Dhawan and I am a __Full Stack Developer__ with 4+ years of experience.
+
+I'm always seeking new opportunities to learn.
+
+Participated and contributed in Hacktoberfest 2019 and 2020.
 
 ---
 
-__Front-End__
+__Front-End:__
 
-JavaScript • ReactJS • Redux • EmberJS • AngularJS • HTML5 • CSS3 • SASS
+JavaScript • ReactJS • Redux • EmberJS • AngularJS • Typescript • HTML5 • CSS3 • SASS
 
-__Back-End__
+__Back-End:__
 
 NodeJS • Python • PHP • Express • AWS • MySQL • PostgreSQL • MongoDB • Elastic Search • Redis
+
+---
+
+- 🌱 I’m currently learning about Distributed Systems and a few technologies - AngularJS, Typescript, and Scala.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonamdhawan/)
+- 😄 Pronouns: she/her
+
+
 
 <!--
 **sonamdh1/sonamdh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
